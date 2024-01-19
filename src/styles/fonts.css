@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "sfPro";
+    src: url("/public/fonts/FontsFree-Net-SFProText-Regular-1.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sfPro";
+    src: url("/public/fonts/FontsFree-Net-SFProText-Medium-1.ttf");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sfPro";
+    src: url("/public/fonts/FontsFree-Net-SFProDisplay-Semibold.ttf");
+    font-weight: 600;
+    font-style: normal;
+}
